@@ -2,7 +2,7 @@
 
 This repo contains a Dockerfile and shiny-server.conf for building a container with RStudio, shiny-server and python3. The container is based on the rocker/verse Docker image. 
 
-The image is already hosted in dockerhub and can be accessed using the image link [shiny_server_with_reticulate]( https://hub.docker.com/r/alwaysandeep/shiny_server_with_reticulate/) 
+The image is already hosted in dockerhub and can be accessed using the image link to pull the image [shiny_server_with_reticulate]( https://hub.docker.com/r/alwaysandeep/shiny_server_with_reticulate/) 
 
 All the information related to locations and setting up the container is also present in the link above.
 
